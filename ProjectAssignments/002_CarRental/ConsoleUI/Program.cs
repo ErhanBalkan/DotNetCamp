@@ -10,7 +10,7 @@
     IResult result3 = userManager.Add(user3);
     // System.Console.WriteLine(user1.FirstName + " ve " + user2.FirstName + " başarıyla eklendi.");        
     System.Console.WriteLine(user3.FirstName + " başarıyla eklendi.");
-} 
+}  
  
 void CustomerTest(){
     CustomerManager customerManager = new CustomerManager(new EFCustomerDal());
