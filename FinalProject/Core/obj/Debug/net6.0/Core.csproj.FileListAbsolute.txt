@@ -1,0 +1,12 @@
+E:\DotNetAndAngularCamp\FinalProject\Core\bin\Debug\net6.0\Core.deps.json
+E:\DotNetAndAngularCamp\FinalProject\Core\bin\Debug\net6.0\Core.dll
+E:\DotNetAndAngularCamp\FinalProject\Core\bin\Debug\net6.0\Core.pdb
+E:\DotNetAndAngularCamp\FinalProject\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+E:\DotNetAndAngularCamp\FinalProject\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetAndAngularCamp\FinalProject\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+E:\DotNetAndAngularCamp\FinalProject\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+E:\DotNetAndAngularCamp\FinalProject\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+E:\DotNetAndAngularCamp\FinalProject\Core\obj\Debug\net6.0\Core.dll
+E:\DotNetAndAngularCamp\FinalProject\Core\obj\Debug\net6.0\refint\Core.dll
+E:\DotNetAndAngularCamp\FinalProject\Core\obj\Debug\net6.0\Core.pdb
+E:\DotNetAndAngularCamp\FinalProject\Core\obj\Debug\net6.0\ref\Core.dll

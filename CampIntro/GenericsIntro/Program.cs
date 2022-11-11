@@ -1,0 +1,1 @@
+﻿MyList<string> isimler = new MyList<string>();

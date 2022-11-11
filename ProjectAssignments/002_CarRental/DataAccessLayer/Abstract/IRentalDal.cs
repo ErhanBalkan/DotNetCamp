@@ -1,0 +1,1 @@
+public interface IRentalDal : IGenericRepository<Rental>{}

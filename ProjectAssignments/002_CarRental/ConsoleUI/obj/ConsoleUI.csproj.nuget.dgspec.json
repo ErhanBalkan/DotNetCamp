@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\ConsoleUI\\ConsoleUI.csproj": {}
+  },
+  "projects": {
+    "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\erhan\\.nuget\\packages\\",
+        "outputPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj"
+              },
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\ConsoleUI\\ConsoleUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\ConsoleUI\\ConsoleUI.csproj",
+        "projectName": "ConsoleUI",
+        "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\erhan\\.nuget\\packages\\",
+        "outputPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\ConsoleUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\BusinessLayer\\BusinessLayer.csproj"
+              },
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj"
+              },
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj",
+        "projectName": "CoreLayer",
+        "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj",
+        "packagesPath": "C:\\Users\\erhan\\.nuget\\packages\\",
+        "outputPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\erhan\\.nuget\\packages\\",
+        "outputPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj"
+              },
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj",
+        "projectName": "EntitiesLayer",
+        "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj",
+        "packagesPath": "C:\\Users\\erhan\\.nuget\\packages\\",
+        "outputPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj": {
+                "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

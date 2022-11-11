@@ -1,0 +1,15 @@
+E:\DotNetCamp\LinqLesson\bin\Debug\net6.0\LinqLesson.exe
+E:\DotNetCamp\LinqLesson\bin\Debug\net6.0\LinqLesson.deps.json
+E:\DotNetCamp\LinqLesson\bin\Debug\net6.0\LinqLesson.runtimeconfig.json
+E:\DotNetCamp\LinqLesson\bin\Debug\net6.0\LinqLesson.dll
+E:\DotNetCamp\LinqLesson\bin\Debug\net6.0\LinqLesson.pdb
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\LinqLesson.csproj.AssemblyReference.cache
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\LinqLesson.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\LinqLesson.AssemblyInfoInputs.cache
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\LinqLesson.AssemblyInfo.cs
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\LinqLesson.csproj.CoreCompileInputs.cache
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\LinqLesson.dll
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\refint\LinqLesson.dll
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\LinqLesson.pdb
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\LinqLesson.genruntimeconfig.cache
+E:\DotNetCamp\LinqLesson\obj\Debug\net6.0\ref\LinqLesson.dll
