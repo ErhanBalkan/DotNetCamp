@@ -1954,11 +1954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNetAndAngularCamp\\FinalProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\DotNetCamp\\FinalProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\DotNetAndAngularCamp\\FinalProject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "E:\\DotNetCamp\\FinalProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\erhan\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNetAndAngularCamp\\FinalProject\\DataAccess\\obj\\",
+      "outputPath": "E:\\DotNetCamp\\FinalProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1973,11 +1973,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\DotNetAndAngularCamp\\FinalProject\\Core\\Core.csproj": {
-              "projectPath": "E:\\DotNetAndAngularCamp\\FinalProject\\Core\\Core.csproj"
+            "E:\\DotNetCamp\\FinalProject\\Core\\Core.csproj": {
+              "projectPath": "E:\\DotNetCamp\\FinalProject\\Core\\Core.csproj"
             },
-            "E:\\DotNetAndAngularCamp\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "E:\\DotNetAndAngularCamp\\FinalProject\\Entities\\Entities.csproj"
+            "E:\\DotNetCamp\\FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\DotNetCamp\\FinalProject\\Entities\\Entities.csproj"
             }
           }
         }
@@ -2017,7 +2017,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uyzdzX0xjA2cKQ09T3dAPA/8iLsEQet93hku75PsdYAoALIj45U7AVclCMVW9q0ILFCpiJuVLgpJ8nBv2+P8xg==",
+  "dgSpecHash": "gDoOLepaBPrXglSkrdeoDH6C1Ay6OLGhf+yF76H1ryyyjS2hoYHDPhVk/OgQloIad2k4hDF4iF/AosYeNV8gDA==",
   "success": true,
-  "projectFilePath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "E:\\DotNetCamp\\ProjectAssignments\\002_CarRental\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erhan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\erhan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

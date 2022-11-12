@@ -2,10 +2,9 @@ using System.Net;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Collections;
-namespace WebAPI.Controllers;
 
-[ApiController]
 [Route("api/[controller]")]
+[ApiController]
 public class ProductsController : ControllerBase
 {
     IProductService _productService;
@@ -15,8 +14,7 @@ public class ProductsController : ControllerBase
 	}
 
     [HttpGet]
-    public List<Product> Get(){
-        var result = _productService.GetAll();
-        return result.Data;
+    public string Get(){
+        return "Merhaba";
     }
 }

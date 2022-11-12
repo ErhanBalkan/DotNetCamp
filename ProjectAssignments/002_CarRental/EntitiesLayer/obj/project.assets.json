@@ -3202,27 +3202,29 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj",
+      "projectUniqueName": "E:\\DotNetCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj",
       "projectName": "EntitiesLayer",
-      "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj",
+      "projectPath": "E:\\DotNetCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj",
       "packagesPath": "C:\\Users\\erhan\\.nuget\\packages\\",
-      "outputPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\obj\\",
+      "outputPath": "E:\\DotNetCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj": {
-              "projectPath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj"
+            "E:\\DotNetCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj": {
+              "projectPath": "E:\\DotNetCamp\\ProjectAssignments\\002_CarRental\\CoreLayer\\CoreLayer.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yKcKA7T4w97O8RQze/tUbyDmMulpw+nO0O9aH5CnHS8rROvDV5UwtCoNhiN2uj/nLBPgGQgzloVAyPBZvT5yOg==",
+  "dgSpecHash": "v0as6lo+VJFcLI/3ZLv+yMGoYHSPfNEzrHgSXlg8rj2pm4mxfQZO/gG0lCJ0+bt1Vuj8Y9co7Z3DELvAA3fXNw==",
   "success": true,
-  "projectFilePath": "E:\\DotNetAndAngularCamp\\FinalProject\\Entities\\Entities.csproj",
+  "projectFilePath": "E:\\DotNetCamp\\FinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erhan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\erhan\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

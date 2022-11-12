@@ -1915,11 +1915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNetAndAngularCamp\\FinalProject\\Core\\Core.csproj",
+      "projectUniqueName": "E:\\DotNetCamp\\FinalProject\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "E:\\DotNetAndAngularCamp\\FinalProject\\Core\\Core.csproj",
+      "projectPath": "E:\\DotNetCamp\\FinalProject\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\erhan\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNetAndAngularCamp\\FinalProject\\Core\\obj\\",
+      "outputPath": "E:\\DotNetCamp\\FinalProject\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1967,7 +1967,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

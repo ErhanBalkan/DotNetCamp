@@ -1933,11 +1933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNetAndAngularCamp\\FinalProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "E:\\DotNetCamp\\FinalProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "E:\\DotNetAndAngularCamp\\FinalProject\\Entities\\Entities.csproj",
+      "projectPath": "E:\\DotNetCamp\\FinalProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\erhan\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNetAndAngularCamp\\FinalProject\\Entities\\obj\\",
+      "outputPath": "E:\\DotNetCamp\\FinalProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1952,8 +1952,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\DotNetAndAngularCamp\\FinalProject\\Core\\Core.csproj": {
-              "projectPath": "E:\\DotNetAndAngularCamp\\FinalProject\\Core\\Core.csproj"
+            "E:\\DotNetCamp\\FinalProject\\Core\\Core.csproj": {
+              "projectPath": "E:\\DotNetCamp\\FinalProject\\Core\\Core.csproj"
             }
           }
         }
@@ -1983,7 +1983,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

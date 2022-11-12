@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXfXeGrZC2rPWBViKmeC2BrLm5p6INb0HI/gUHHcNIvXirtwmm8YnZ4QuirgaW20yPxv4J7ZkFQrt/RxJbusPQ==",
+  "dgSpecHash": "SxvT7TPOp6urow0t/w1vvvsPrtc8hEzpZBaEZcyWvG5lIBS3mCIWp7txAT8YQhKleAQPHs4NLADrVihRiPF6gQ==",
   "success": true,
-  "projectFilePath": "E:\\KodlamaIO_DotNetAndAngularCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj",
+  "projectFilePath": "E:\\DotNetCamp\\ProjectAssignments\\002_CarRental\\EntitiesLayer\\EntitiesLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erhan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\erhan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

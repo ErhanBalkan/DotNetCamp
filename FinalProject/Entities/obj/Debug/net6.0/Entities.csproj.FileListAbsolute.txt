@@ -37,3 +37,6 @@ E:\DotNetAndAngularCamp\FinalProject\Entities\obj\Debug\net6.0\ref\Entities.dll
 E:\DotNetAndAngularCamp\FinalProject\Entities\bin\Debug\net6.0\Core.dll
 E:\DotNetAndAngularCamp\FinalProject\Entities\bin\Debug\net6.0\Core.pdb
 E:\DotNetAndAngularCamp\FinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+E:\DotNetCamp\FinalProject\Entities\bin\Debug\net6.0\Core.dll
+E:\DotNetCamp\FinalProject\Entities\bin\Debug\net6.0\Core.pdb
+E:\DotNetCamp\FinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete

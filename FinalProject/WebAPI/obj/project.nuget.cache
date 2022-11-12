@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jo9Wd2Z/yj3PSdNxIFwdFxEzfo+gACnGwTFxwl+jNpKcPlrH5SsgQXg59EjtE2Fy59sbLiXPj5/OdIcwqh6ecQ==",
+  "dgSpecHash": "gclNcw61mtmpk9I0Y1Xv/kg4yV2x/UMQmzxmjcUH/1shXGVghDJltaTroTWuxEggLJKHWAwNU0dHJzCBFnalvw==",
   "success": true,
-  "projectFilePath": "E:\\DotNetAndAngularCamp\\FinalProject\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "E:\\DotNetCamp\\FinalProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erhan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\erhan\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
