@@ -12,6 +12,10 @@ builder.Services.AddControllers();
 */
 builder.Services.AddSingleton<IUserService,UserManager>();
 builder.Services.AddSingleton<IUserDal,EFUserDal>();
+builder.Services.AddSingleton<ICarService, CarManager>();
+builder.Services.AddSingleton<ICarDal,EFCarDal>();
+builder.Services.AddSingleton<IRentalService,RentalManager>();
+builder.Services.AddSingleton<IRentalDal,EFRentalDal>();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
