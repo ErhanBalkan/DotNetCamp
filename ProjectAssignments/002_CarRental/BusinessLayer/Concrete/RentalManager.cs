@@ -16,4 +16,16 @@ public class RentalManager : IRentalService
         _rentalDal.Add(rental);
         return new SuccessResult();
     }
+
+    public IDataResult<List<Rental>> GetAll()
+    {
+        var data = _rentalDal.GetAll();
+        return new SuccessDataResult<List<Rental>>(data);
+    }
+
+    public IDataResult<Rental> GetById(int id)
+    {
+        var data = _rentalDal.Get(r => r.Id == id);
+        return new SuccessDataResult<Rental>(data);
+    }
 }
