@@ -1,0 +1,15 @@
+E:\DotNetCamp\Reflections\bin\Debug\net7.0\Reflections.exe
+E:\DotNetCamp\Reflections\bin\Debug\net7.0\Reflections.deps.json
+E:\DotNetCamp\Reflections\bin\Debug\net7.0\Reflections.runtimeconfig.json
+E:\DotNetCamp\Reflections\bin\Debug\net7.0\Reflections.dll
+E:\DotNetCamp\Reflections\bin\Debug\net7.0\Reflections.pdb
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\Reflections.csproj.AssemblyReference.cache
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\Reflections.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\Reflections.AssemblyInfoInputs.cache
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\Reflections.AssemblyInfo.cs
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\Reflections.csproj.CoreCompileInputs.cache
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\Reflections.dll
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\refint\Reflections.dll
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\Reflections.pdb
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\Reflections.genruntimeconfig.cache
+E:\DotNetCamp\Reflections\obj\Debug\net7.0\ref\Reflections.dll
