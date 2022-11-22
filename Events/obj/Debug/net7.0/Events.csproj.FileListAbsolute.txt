@@ -1,0 +1,15 @@
+E:\DotNetCamp\Events\bin\Debug\net7.0\Events.exe
+E:\DotNetCamp\Events\bin\Debug\net7.0\Events.deps.json
+E:\DotNetCamp\Events\bin\Debug\net7.0\Events.runtimeconfig.json
+E:\DotNetCamp\Events\bin\Debug\net7.0\Events.dll
+E:\DotNetCamp\Events\bin\Debug\net7.0\Events.pdb
+E:\DotNetCamp\Events\obj\Debug\net7.0\Events.csproj.AssemblyReference.cache
+E:\DotNetCamp\Events\obj\Debug\net7.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCamp\Events\obj\Debug\net7.0\Events.AssemblyInfoInputs.cache
+E:\DotNetCamp\Events\obj\Debug\net7.0\Events.AssemblyInfo.cs
+E:\DotNetCamp\Events\obj\Debug\net7.0\Events.csproj.CoreCompileInputs.cache
+E:\DotNetCamp\Events\obj\Debug\net7.0\Events.dll
+E:\DotNetCamp\Events\obj\Debug\net7.0\refint\Events.dll
+E:\DotNetCamp\Events\obj\Debug\net7.0\Events.pdb
+E:\DotNetCamp\Events\obj\Debug\net7.0\Events.genruntimeconfig.cache
+E:\DotNetCamp\Events\obj\Debug\net7.0\ref\Events.dll

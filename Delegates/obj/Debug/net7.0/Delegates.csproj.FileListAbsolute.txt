@@ -1,0 +1,15 @@
+E:\DotNetCamp\Delegates\bin\Debug\net7.0\Delegates.exe
+E:\DotNetCamp\Delegates\bin\Debug\net7.0\Delegates.deps.json
+E:\DotNetCamp\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+E:\DotNetCamp\Delegates\bin\Debug\net7.0\Delegates.dll
+E:\DotNetCamp\Delegates\bin\Debug\net7.0\Delegates.pdb
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\Delegates.csproj.AssemblyReference.cache
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\Delegates.dll
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\Delegates.pdb
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+E:\DotNetCamp\Delegates\obj\Debug\net7.0\ref\Delegates.dll
