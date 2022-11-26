@@ -77,3 +77,7 @@ E:\DotNetCamp\ProjectAssignments\002_CarRental\WebAPI\bin\Debug\net7.0\EntitiesL
 E:\DotNetCamp\ProjectAssignments\002_CarRental\WebAPI\bin\Debug\net7.0\CoreLayer.pdb
 E:\DotNetCamp\ProjectAssignments\002_CarRental\WebAPI\bin\Debug\net7.0\BusinessLayer.pdb
 E:\DotNetCamp\ProjectAssignments\002_CarRental\WebAPI\bin\Debug\net7.0\DataAccessLayer.pdb
+E:\DotNetCamp\ProjectAssignments\002_CarRental\WebAPI\bin\Debug\net7.0\Autofac.dll
+E:\DotNetCamp\ProjectAssignments\002_CarRental\WebAPI\bin\Debug\net7.0\Autofac.Extras.DynamicProxy.dll
+E:\DotNetCamp\ProjectAssignments\002_CarRental\WebAPI\bin\Debug\net7.0\Castle.Core.dll
+E:\DotNetCamp\ProjectAssignments\002_CarRental\WebAPI\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
